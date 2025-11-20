@@ -23,5 +23,3 @@ Entwicklung eines Machine Learning Modells in KNIME zur Klassifikation von Haush
 ## 👥 Team
 
 Aleksej Assmus, Jan Ansperger, Mario Förster, Laura Richter
-
----
